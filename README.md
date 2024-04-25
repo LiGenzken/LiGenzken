@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LiGenzken
-- 👀 I’m interested in... everything??
 - 🌱 I’m currently studying at Fullstack Academy in Brooklyn ✨
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me li@ligenzken.com
